@@ -36,7 +36,7 @@
 
 ---
 
-## 2. 这些脚本做了什么
+## 2. 脚本内容
 
 每个脚本都包含以下几个部分：
 
@@ -77,13 +77,3 @@
 - `numpy`
 - `torch`
 
----
-
-## 4. 安装方式
-
-建议先创建虚拟环境。
-
-### 使用 venv
-```bash
-python -m venv venv
-source venv/bin/activate
