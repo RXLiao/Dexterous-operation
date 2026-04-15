@@ -1,8 +1,9 @@
 # Dexterous-operation
+本仓库包含3份代码
 
-## Adroit RL Baselines
+## 一.Adroit_hand_RL
 
-这个仓库包含 4 个基于 Stable-Baselines3 的强化学习的Adroit灵巧手训练脚本，用于 `gymnasium_robotics` 中的 Adroit 任务。
+这个路径下包含 4 个基于 Stable-Baselines3 的强化学习的Adroit灵巧手训练脚本，用于 `gymnasium_robotics` 中的 Adroit 任务。
 
 目前包括以下文件：
 
@@ -77,3 +78,11 @@
 - `numpy`
 - `torch`
 
+
+## 二.Adroit_platform
+该代码引用自[Adroit](https://github.com/vikashplus/Adroit)
+
+
+
+## 三.ObjDexEnv
+该代码引用自[ObjDexEnvs](https://github.com/cypypccpy/ObjDexEnvs)
